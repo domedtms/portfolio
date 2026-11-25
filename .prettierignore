@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist-ssr/
+coverage/
+.vercel/
+playwright-report/
+test-results/
+package-lock.json
+public/
+*.log
