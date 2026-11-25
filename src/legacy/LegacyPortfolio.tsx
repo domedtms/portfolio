@@ -9,7 +9,7 @@ import {
   Wrench,
 } from "lucide-react";
 
-export default function DomePortfolioSite() {
+export default function LegacyPortfolio() {
   const nav = [
     { label: "About", href: "#about" },
     { label: "What I Do", href: "#what-i-do" },
